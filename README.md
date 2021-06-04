@@ -8,7 +8,7 @@
 
 💬 Knowledge of cutting-edge PyTorch/Keras-based deep learning models (ANN, CNN, RNN, LSTM); Reinforcement Learning, Data Science, Computer Vision, and Space Sciences (Aerospace, radioastronomy, rocketry, satellite engineering)
 
-🏸 Currently working on Satellite imagery, Deepfakes, Transformers, 
+🏸 Currently working on Satellite imagery, Deepfakes, Transformers and Aerospace Engineering.
 
 👯 Open to participate on research & competitions, challenges or research, feel free to drop me a message: sebasmos@ieee.org
 
