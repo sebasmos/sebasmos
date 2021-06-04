@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I am Sebastian Cajas, a **Machine learning / Deep learning developer** pursuing my Master's in Image Processing & Computer vision.
+⚡ I am Sebastian Cajas, a **Machine learning / Deep learning Enthusiast** pursuing my Master's in Image Processing & Computer vision.
 
 🔭 I studied **Electronic & Telecommunications engineering** from the University of Cauca in Colombia; [AESS Unicauca Aerospace Adviser & Founder](https://fiet.unicauca.edu.co/aess). CEO of the Astronomical Observatory Francisco José de Caldas;
 
