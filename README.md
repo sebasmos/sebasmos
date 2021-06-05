@@ -14,7 +14,7 @@
 
 ### 🥇 **Achievements**
 
-✔️ **USD 5000 AWARD for First Prize on HAC & SIGHT projects** focused on COVID-10 response call for the proposal **Owzone: Generator & multifunctional ozonator for the disinfection of viruses caused by COVID-19(21-cov1-036)** composed of an open-source mobile app and a ozonator. 
+✔️ **First Prize on HAC & IEEE SIGHT projects (US 5000 AWARD)** focused on COVID-10 response call for the proposal *Owzone: Generator & multifunctional ozonator for the disinfection of viruses caused by COVID-19(21-cov1-036)* composed of an open-source mobile app and a ozonator. 
 
 ✔️ **[OpenCV competition 2021 Phase 1 winner](https://www.credential.net/129359c4-3c14-443f-aeff-75736589f961?key=85cfc22cc2d9a24a7d67a46892927cef9c4055de540ac4dafa19421d534920fa)** Finalist in the OpenCV AI Competition 2021 sponsored by Microsoft Azure and Intel, the World's biggest spatial AI competition. My team’s proposal was chosen from over 1400 submissions around the world, earning 3 OAK-D devices.
 
