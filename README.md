@@ -4,8 +4,6 @@
 
 🔭 I studied **Electronic & Telecommunications engineering** from the University of Cauca in Colombia; [AESS Unicauca Aerospace Adviser & Founder](https://fiet.unicauca.edu.co/aess). CEO of the Astronomical Observatory Francisco José de Caldas;
 
-📫 Knowledge of a multitude of machine learning models (XGBoost, RandomForest, knn, K-means, Extra-trees,..)
-
 💬 Knowledge of cutting-edge PyTorch/Keras-based deep learning models (ANN, CNN, RNN, LSTM); Reinforcement Learning, Data Science, Computer Vision, and Space Sciences (Aerospace, radioastronomy, rocketry, satellite engineering)
 
 🏸 Currently working on Satellite imagery, Deepfakes, Transformers and Aerospace Engineering.
