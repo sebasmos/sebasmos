@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I am a **Machine learning / Deep learning Enthusiast** pursuing my Master's in Image Processing & Computer vision.
+⚡ ML/CV Engineer. 
 
 🔭 My website: https://sebasmos.github.io/ 
 
