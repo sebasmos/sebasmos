@@ -4,4 +4,4 @@
 
 🔭 My website: https://sebasmos.github.io/ 
 
-👯 Open to participate on research & competitions, challenges or research, feel free to drop me a message: scajasordonez [ad] gmail.com
+👯 Open to participate in research, competitions & challenges, feel free to drop me a message: sebasmos@mit.edu
